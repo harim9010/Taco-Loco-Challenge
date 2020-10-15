@@ -54,4 +54,5 @@ public class CommonUtils {
   public static boolean isNotEmptyCollection( Collection<?> obj ) {
     return !isEmptyCollection( obj );
   }
+  
 }
